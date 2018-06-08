@@ -5,14 +5,17 @@
 <head>
 <body>
   <h1>my first webpage</h1>
-  <h2>written with a little guidance from hola code</h2>
+  <h2>written with a little guidance from <em> hola code</em></h2>
   <p>hello, world</p>
-  <p>welcome to my first webpage</p>
+  <p>welcome to my <strong<first web page</strong></p>
   <ul>
     <li>html</li>
     <li>css</li>
     <li>javascript</li>
     <li>and a lot more</li>
   </ul>
+  <p> check out <a href="http://www.connovo.org/holacode/">hola code</a> its a great place to learn web development skills</p>
+  <p> here is a link to my <a href="favorite-things-things.html">favorite things</a></p>
+    <img src="elephant.jpg" alt="a photo of a an elephant"
 <body>
 </html>
