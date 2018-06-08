@@ -8,5 +8,11 @@
   <h2>written with a little guidance from hola code</h2>
   <p>hello, world</p>
   <p>welcome to my first webpage</p>
+  <ul>
+    <li>html</li>
+    <li>css</li>
+    <li>javascript</li>
+    <li>and a lot more</li>
+  </ul>
 <body>
 </html>
